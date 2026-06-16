@@ -28,3 +28,6 @@ npm-debug.log*
 # Temporary
 *.tmp
 *.swp
+
+# Sixth courseware
+.sixth/
